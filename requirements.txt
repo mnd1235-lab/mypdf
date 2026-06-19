@@ -1,8 +1,6 @@
 streamlit
 langchain_core
 langchain_openai
-dotenv
 PyMuPDF
 langchain_community
-os
 langchain_text_splitters
